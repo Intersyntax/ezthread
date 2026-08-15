@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="ieatfish" ToolsVersion="17.0">
+  <Include Path="concurrencyrules.ruleset" Action="Default" />
+  <Include Path="cppexperimentalleapyearrules.ruleset" Action="Default" />
+  <Include Path="nativerecommendedrules.ruleset" Action="Default" />
+</RuleSet>

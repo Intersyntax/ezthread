@@ -1,0 +1,77 @@
+﻿  condition.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/condition.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/condition.cpp')
+  
+  core.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/core.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/core.cpp')
+  
+  debug.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/debug.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/debug.cpp')
+  
+E:\closed source\ezthread\src\ezthread\debug.cpp(36,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  event.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/event.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/event.cpp')
+  
+  future.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/future.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/future.cpp')
+  
+  mutex.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/mutex.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/mutex.cpp')
+  
+  pool.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/pool.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/pool.cpp')
+  
+E:\closed source\ezthread\src\ezthread\core.hpp(59,2): warning C5046: 'ezthread::Thread::Thread': Symbol involving type with internal linkage not defined
+  (compiling source file 'src/ezthread/pool.cpp')
+  
+  semaphore.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/semaphore.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/semaphore.cpp')
+  
+  sync.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/sync.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/sync.cpp')
+  
+  tls.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(99,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/tls.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(100,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/ezthread/tls.cpp')
+  
+  Generating Code...
+E:\closed source\ezthread\src\ezthread\core.cpp(225,1): warning C4717: 'ezthread::Thread::Sleep': recursive on all control paths, function will cause runtime stack overflow
+  ezthread.vcxproj -> E:\closed source\ezthread\x64\Debug\ezthread.lib
