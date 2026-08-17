@@ -1,5 +1,6 @@
 .vs/
-*/*.vcxproj.user
+*.vcxproj.user
 obj/
 bin/
 .git/
+ezthread/

@@ -187,7 +187,7 @@ double PerformanceCounter::GetElapsedSeconds() const
 
 double PerformanceCounter::GetElapsedMicroseconds() const
 {
-	return GetElapsedMilliseconds() * 1000.0;
+	return GetElapsedMilliseconds() * 1000.;
 }
 
 double PerformanceCounter::GetFrequency()
@@ -244,7 +244,7 @@ void SetThreadName(DWORD threadId, const char* name)
 	SetThreadDescription(hThread, name);
 #else
 	wchar_t buffer[128];
-	MultiByteToWideChar(CP_UTF8, 0, name, 0, buffer, 0);
+	MultiByteToWideChar(CP_UTF8, 0, name, -1, buffer, sizeof(buffer));
 	SetThreadDescription(hThread, buffer);
 #endif
 	CloseHandle(hThread);
